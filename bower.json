@@ -3,7 +3,7 @@
   "version": "3.17.1",
   "description": "OpenLayers 3",
   "main": [
-    "ol.js",
+    "ol-debug.js",
     "ol.css"
   ],
   "ignore": [
